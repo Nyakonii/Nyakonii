@@ -3,6 +3,7 @@ Hello, my name is Cadence, but you can call me Nyako. I am a very much still lea
 - I’m currently learning C#, Python And Getting Better In What I Already Know
                   
                             Nya /`/`
+![Nyako's Failure Tracker](https://github-readme-stats.vercel.app/api?username=Nyakonii&hide=issues&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 <!---
 Nyakonii/Nyakonii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
