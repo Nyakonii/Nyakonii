@@ -41,6 +41,12 @@ Hello, my name is Cadence, but you can call me Nyako. I am a very much still lea
 ![](https://img.shields.io/badge/Style-ChakraUI-informational?style=for-the-badge&logo=chakraui&color=319795)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=1572B6)
 
+</br>
+
+## Github:
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyakonii&repo=StudyProjects&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)](https://github.com/Nyakonii/StudyProjects)
                             
