@@ -16,29 +16,30 @@ Hello, my name is Cadence, but you can call me Nyako. I am a very much still lea
 
 ## Skills:
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=239120)
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&color=2C2D72)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&color=00599C)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=csharp&color=239120)
+![](https://img.shields.io/badge/Code-Lua-informational?style=for-the-badge&logo=lua&color=2C2D72)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=E34F26)
 
 </br>
 
-![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=dotnet&color=512BD4)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Next.JS-informational?style=flat&logo=nextdotjs&color=000000)
+![](https://img.shields.io/badge/Framework-.Net-informational?style=for-the-badge&logo=dotnet&color=512BD4)
+![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Framework-Next.JS-informational?style=for-the-badge&logo=nextdotjs&color=000000)
 
 </br> 
 
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&color=4479A1)
-![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&color=4479A1)
+![](https://img.shields.io/badge/Database-MariaDB-informational?style=for-the-badge&logo=mariadb&color=003545)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=for-the-badge&logo=SQLite&color=003B57)
 
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-ChakraUI-informational?style=flat&logo=chakraui&color=319795)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-ChakraUI-informational?style=for-the-badge&logo=chakraui&color=319795)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=1572B6)
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyakonii&repo=StudyProjects&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)](https://github.com/Nyakonii/StudyProjects)
