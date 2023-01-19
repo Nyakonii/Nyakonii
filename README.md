@@ -16,34 +16,21 @@ Hello, my name is Cadence, but you can call me Nyako. I am a very much still lea
 
 ## Skills:
 
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&color=00599C)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=csharp&color=239120)
-![](https://img.shields.io/badge/Code-Lua-informational?style=for-the-badge&logo=lua&color=2C2D72)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=E34F26)
+<details>
+<summary>Languages I Work With:</summary>
+<br/>
+<p align="left"> <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/>
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/>
+<a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="Lua" width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+</p>
 
-</br>
+</details>
 
-![](https://img.shields.io/badge/Framework-.Net-informational?style=for-the-badge&logo=dotnet&color=512BD4)
-![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Next.JS-informational?style=for-the-badge&logo=nextdotjs&color=000000)
 
-</br> 
-
-![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&color=4479A1)
-![](https://img.shields.io/badge/Database-MariaDB-informational?style=for-the-badge&logo=mariadb&color=003545)
-![](https://img.shields.io/badge/Database-SQLite-informational?style=for-the-badge&logo=SQLite&color=003B57)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-ChakraUI-informational?style=for-the-badge&logo=chakraui&color=319795)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=CSS3&color=1572B6)
-
-</br>
-
-## Github:
+## Github Stats:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -53,6 +40,13 @@ Hello, my name is Cadence, but you can call me Nyako. I am a very much still lea
 ![Nyako's Failure Tracker](https://github-readme-stats.vercel.app/api?username=Nyakonii&hide=issues&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&custom_title=Nyakos-Failure-Tracker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyakonii&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)](https://github.com/Nyakonii)
+
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&color=00599C)
+![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&color=239120)
+![](https://img.shields.io/badge/Lua-informational?style=for-the-badge&color=2C2D72)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&color=F7DF1E)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&color=3776AB)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&color=E34F26)
 
 <br/>
 <br/>
