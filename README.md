@@ -11,7 +11,7 @@ Hello, my name is Cadence, but you can call me Nyako. I am a very much still lea
 
 ## I'm currently learning:
 - C#
-- C++
+- Rust
 - Web Design (Cause I suck 😿)
 
 ## Skills:
